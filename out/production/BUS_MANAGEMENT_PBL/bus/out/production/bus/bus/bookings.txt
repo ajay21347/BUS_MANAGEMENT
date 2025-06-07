@@ -1,0 +1,5 @@
+username,trip_id,source_stop_id,destination_stop_id,fare
+
+john123,T100,2,4,180
+
+Akash,Rishikesh,3

@@ -1,0 +1,14 @@
+stop_id,stop_name,stop_desc,stop_lat,stop_lon
+1,Dehradun Bus Station,Main bus station in Dehradun,30.3165,78.0322
+2,Rishikesh Bus Station,Main bus station in Rishikesh,30.0987,78.2688
+3,Nainital Bus Station,Main bus station in Nainital,29.3805,79.4627
+4,Haridwar Bus Station,Main bus station in Haridwar,29.9457,78.1642
+5,Mussoorie Bus Station,Main bus station in Mussoorie,30.4598,78.0667
+6,Almora Bus Station,Main bus station in Almora,29.5968,79.5226
+7,Bageshwar Bus Station,Main bus station in Bageshwar,29.5131,79.7745
+8,Champawat Bus Station,Main bus station in Champawat,29.3737,80.0535
+9,Tehri Bus Station,Main bus station in Tehri,30.3321,78.4489
+10,Udham Singh Nagar Bus Station,Main bus station in Rudrapur,28.9858,79.0647
+11,Pithoragarh Bus Station,Main bus station in Pithoragarh,29.5833,80.2150
+12,Kedarnath Bus Station,Main bus station in Kedarnath,30.7345,79.0661
+13,Yamunotri Bus Station,Main bus station in Yamunotri,30.9264,78.4556
